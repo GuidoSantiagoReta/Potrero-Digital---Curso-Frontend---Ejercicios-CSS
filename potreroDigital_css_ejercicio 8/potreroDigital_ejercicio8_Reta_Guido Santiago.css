@@ -1,0 +1,86 @@
+
+*{                       /*aplica a todos los elementos */
+    
+    margin: 0;
+    padding:0;
+    -webkit-box-sizing: border-box;        /*propiedades para navegadores */
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;     /*para que el padding no aumente su tamaño */
+    
+}
+
+
+/*ARTICULO*/
+
+
+.art .contenedor .articulos {
+    float: left;
+    width: 68%;
+    
+}
+
+.art .contenedor .articulos .articulo {
+    background: #fff;
+    padding: 60px 0;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 20px;
+}
+
+.art .contenedor .articulos .articulo .fecha-articulo {
+    color: #c7c7c7;
+    font-size: 16px;
+    text-align: center;
+    margin: 20px
+}
+
+.art .contenedor .articulos .articulo .titulo-articulo {
+    color: #363940;
+    font-size: 26px;
+    text-align: center;
+    margin: 20px
+}
+
+.art .contenedor .articulos .articulo .categoria-articulo {
+    color: #9c9c9c;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px;
+}
+
+.art .contenedor .articulos .articulo img {
+
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.art .contenedor .articulos .articulo .texto-articulo {
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.art .contenedor .articulos .articulo .texto-articulo p {
+    margin-bottom: 20px;
+    color: #363940;
+}
+
+.art .contenedor .articulos .articulo .boton {
+    text-align: center;
+
+}
+
+.art .contenedor .articulos .articulo .boton a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 20px;
+    background: none;
+    border: 1px solid #bababa;
+    font-size: 14px;
+    color: #7d7d7d;
+
+}
+
+.art .contenedor .articulos .articulo .boton a:hover {
+    background: #7d7d7d;
+    color: #fff;
+}

@@ -1,0 +1,18 @@
+body h1{
+    background-color: red;
+    color:  rgb(255, 255, 255);
+    font-family: helvetica;
+    text-decoration: underline;
+}
+
+body h2{
+background-color: #0000ff;
+color: white;
+font-family: sans-serif;
+
+}
+body p{
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #008f39;
+}

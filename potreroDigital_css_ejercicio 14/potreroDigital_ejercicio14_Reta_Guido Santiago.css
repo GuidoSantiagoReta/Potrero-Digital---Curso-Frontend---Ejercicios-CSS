@@ -1,0 +1,38 @@
+.contenedor {
+    border: 1px solid black;
+    background: red;
+    width: 300px;
+    height: 20vh;
+    margin: 4px 3%;
+    padding: 0;
+}
+
+/* tamaño laptop */
+
+@media(max-width:1024px) {
+    .contenedor {
+        border: 3px dotted black;
+        background: green;
+        width: 20%;
+        height: 100px;
+        margin: 10px 6%;
+        padding: 9px;
+
+    }
+}
+
+
+/* tamaño celular */
+
+@media(max-width:425px) {
+    .contenedor {
+        border:  solid #cc0000;
+        background: green;
+        width: 20%;
+        height: 100px;
+        margin:0;
+        padding-right: 9px;
+        padding: 0;
+
+    }
+}

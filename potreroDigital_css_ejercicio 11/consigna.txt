@@ -1,0 +1,27 @@
+Como ya hicimos muchos ejercicios de HTML vamos a usar uno de los que ya hicimos, el ejercicio 2. La consigna consiste en darle estilo mediante CSS a los elementos de tu archivo HTML:
+
+
+•	TÍTULO:
+o	Color de fondo: rojo (usando palabras)
+o	Color de letra: blanco (usando RGB)
+o	Tipo de fuente: helvética
+o	Subrayado
+
+
+•	SUBTÍTULO:
+o	Color de fondo: azul (usando hexadecimal)
+o	Color de letra: blanco (letras)
+o	Tipo de fuente: sans-serif
+
+
+•	PÁRRAFO:
+o	Negrita
+o	Tamaño de fuente: 16px
+o	Color de fondo: verde (hexadecimal)
+
+
+
+Se deberá entregar 2 archivos. Debe cumplir con el siguiente lineamiento (respetar las minusculas y mayúsculas):
+
+potreroDigital_ejercicio11_apellido_nombre.html
+potreroDigital_ejercicio11_apellido_nombre.css

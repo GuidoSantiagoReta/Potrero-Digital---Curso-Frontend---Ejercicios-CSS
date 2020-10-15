@@ -1,0 +1,12 @@
+
+Realizar las modificaciones que consideres necesarias en el archivo .html que está adjunto para que:
+- los títulos de las secciones 1 y 3 sean de color rojo y fondo azul.
+-los párrafos tengan tamaño de fuente igual a 16px.
+-los títulos de las secciones 2 y 4 sean de color verde.
+-el subtítulo de la sección 2 debe tener fuente italica y el resto helvetica.
+
+
+Se deberá entregar 2 archivos . Debe cumplir con el siguiente lineamiento (respetar las minusculas y mayúsculas):
+
+potreroDigital_ejercicio13_apellido_nombre.html
+potreroDigital_ejercicio13_apellido_nombre.css
